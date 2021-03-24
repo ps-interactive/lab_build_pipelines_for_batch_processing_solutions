@@ -1,0 +1,6002 @@
+[
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 6906
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1481
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 9150
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6341
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7408
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3502
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4521
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3972
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 7444
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 2804
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 5226
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1677
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7883
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8307
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 7424
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9215
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 9964
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 2449
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 2962
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6260
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 3829
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 3062
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 1916
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 6151
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5801
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 275
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 2829
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 8380
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 2117
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8080
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3151
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7399
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 4766
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3478
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3457
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7251
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 8912
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 3528
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3184
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 477
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5417
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 407
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2191
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6546
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5574
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 1925
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5870
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 9025
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 1550
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 6149
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5723
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8128
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3236
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 6473
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 9593
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9784
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8712
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 26
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 6468
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 5276
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 9968
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1934
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 6516
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8887
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 174
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6849
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 373
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4824
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 9685
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 5377
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 9599
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3568
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 8676
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 942
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7832
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4015
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 5957
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8718
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 695
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2889
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6781
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9351
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 4616
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 7594
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7233
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9918
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5823
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 9635
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4811
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 744
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 8507
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7145
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6579
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 7556
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7526
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1922
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4044
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 107
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7084
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 2132
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 9767
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7754
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 1741
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 6368
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4535
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6835
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1564
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 4520
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 2154
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4222
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7349
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 544
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7534
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3104
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 2285
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 947
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 7587
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4887
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 2028
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 5960
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3820
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 4344
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8310
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 6929
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 7917
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3262
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5281
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3568
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3299
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3116
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 3895
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8421
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7552
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6685
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 4421
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5675
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 4134
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1561
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6631
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9246
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 7505
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 4454
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 7964
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 2487
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3422
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9038
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 9421
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8854
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 6671
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6730
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6117
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 5774
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8526
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 9308
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3787
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8442
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 9011
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 5119
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6626
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 2424
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9633
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 7825
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 1309
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1092
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 9381
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 4790
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 7529
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 6644
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 8986
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 4954
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 5097
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6352
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7566
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 6106
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9921
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 9313
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 1808
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 9928
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8506
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 6752
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 6396
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4431
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 671
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 4949
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 5678
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8555
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3208
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 76
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 5505
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 742
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 4908
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 55
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 7444
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1682
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 9907
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3609
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8053
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6039
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 5072
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 1294
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 9603
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 7485
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6610
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 5905
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 2583
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5054
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 2400
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 6881
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 794
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 7691
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7420
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 1740
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 769
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7573
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8645
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1099
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4839
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3380
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 7850
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3284
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6941
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8888
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2959
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3053
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 6589
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 4504
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2681
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 9112
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 2282
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8456
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 7101
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 9732
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8504
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 9459
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5288
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 2695
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 7707
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3865
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 2629
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3205
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 9447
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8598
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3037
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 816
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 7820
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 2666
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 461
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5520
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 9657
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5521
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2596
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6548
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9100
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 5224
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 5603
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8353
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3380
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6291
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 8887
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6020
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 5577
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 3250
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 2785
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 5640
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 428
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 9557
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6193
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 4640
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 5582
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 9447
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6583
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8853
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3106
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 8286
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8664
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1718
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8883
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 2121
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 4254
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 1657
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8366
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 689
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 9724
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 6163
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5736
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6895
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 4557
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9740
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 164
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3856
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 349
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4823
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 4201
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 3364
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 1809
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1320
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9756
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 1214
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8962
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3192
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7389
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8023
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 4340
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 1449
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6315
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3071
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8651
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 781
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 472
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 2872
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3592
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6223
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 8549
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8737
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6120
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5767
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6442
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 2284
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1670
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 2550
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 4295
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 5694
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1189
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 7860
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 9004
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 828
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 2383
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3601
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 6975
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5307
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1487
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 8213
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 1014
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 776
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5345
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 8098
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5440
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8769
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3256
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 3500
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 5955
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 1508
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3691
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 885
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 4040
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 2749
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 1443
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 7420
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 700
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5489
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 7118
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3552
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 2365
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 4114
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8684
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 82
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 6191
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4754
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 8778
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 7019
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3332
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1034
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8602
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 529
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 5724
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8771
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 1983
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 7931
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6566
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 9827
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3144
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1710
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5031
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1791
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 981
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5051
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4974
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 9626
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8893
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8310
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4348
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1090
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 7256
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5078
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 6767
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8977
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3440
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 7711
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8465
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5710
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 6595
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 212
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 6113
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 671
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 9202
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3905
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4235
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 3873
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 8416
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 2325
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 559
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 1935
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 1092
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6103
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 432
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 153
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 7137
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4215
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 7889
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 2393
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 8201
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 8114
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 7339
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6940
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6995
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5991
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9834
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3937
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9986
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3500
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 7288
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6415
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 7596
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 1889
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8201
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 8704
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 958
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 997
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 4670
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 2967
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 1977
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 312
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 7677
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5336
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 6635
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2255
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9374
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9385
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4132
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7159
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 6499
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6375
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8782
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 216
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8185
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7315
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 5807
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 480
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9216
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 8472
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 3985
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 716
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6989
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 5406
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 2904
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 5178
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 9643
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8562
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 9519
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3982
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4394
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3919
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 9232
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3279
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8921
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 5193
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 559
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4197
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 886
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 589
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1114
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 1869
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6998
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 5186
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4013
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 7626
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6405
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5335
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8396
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 330
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6969
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 334
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8732
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5328
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 8734
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 1705
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 2999
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 1419
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6390
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 9552
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 897
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 5762
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 7135
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7706
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4378
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 2803
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6635
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3253
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 6999
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3726
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1596
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 4597
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8481
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 4686
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6109
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 1728
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7178
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3619
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8838
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3432
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4079
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 3961
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 1546
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9879
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8153
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 9574
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3073
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 595
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 7221
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 9462
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 557
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8827
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1791
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 9067
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9612
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4261
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 6442
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3822
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3257
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 4809
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 8132
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 311
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 876
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6253
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3339
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6989
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 861
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 7381
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8170
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1206
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4186
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 4361
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6768
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 597
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4031
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5663
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3589
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4269
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 298
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 2226
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 2974
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 9424
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 6786
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1816
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 6630
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 4776
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 794
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 358
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 884
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 1363
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 4518
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9667
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 292
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 2826
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6060
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3928
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 9461
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 2400
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3433
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 7378
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5732
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4192
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5835
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6332
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4707
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 801
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3542
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 4763
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 1062
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 8599
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5315
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 519
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 2944
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 1791
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2089
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 5459
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8839
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 9682
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 7947
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 1540
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 941
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5332
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 989
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 5036
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 509
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3280
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8661
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6565
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 6716
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7760
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5237
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8639
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 5942
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3425
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 2164
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 2797
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1204
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 9174
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 4157
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4686
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 2484
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6434
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7941
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 53
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7673
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 2544
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3794
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 2371
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 590
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 6786
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4179
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 1305
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 9422
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 8934
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 9550
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 5687
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 206
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 2381
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1852
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4238
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 1618
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 685
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 7141
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6517
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8825
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8686
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 8824
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3877
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 9545
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 3338
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 6708
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 9375
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3013
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 631
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1219
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1197
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6642
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5796
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 2537
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2593
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8404
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 68
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7404
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 6622
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 3658
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 1346
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 9225
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 1985
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1421
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8735
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8060
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3336
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 5853
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 8824
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 896
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8204
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5956
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 1686
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 2131
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3202
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5267
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 8049
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 4070
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 7638
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 663
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 158
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 9986
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8718
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3103
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 8781
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 265
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 6040
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8543
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 853
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 1954
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3607
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6678
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5304
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4604
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 4720
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3456
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 88
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7669
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1437
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6374
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7352
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 5800
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 7266
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 7318
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 1781
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1105
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 4375
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3792
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9276
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 9630
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 9190
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3508
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 2050
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4221
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 512
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 9649
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3157
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6417
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3964
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 1924
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 4978
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1030
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6990
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 279
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 597
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1917
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 4180
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 1900
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6212
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 5795
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 9477
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9357
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7542
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 3061
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4113
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 9288
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 4957
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8596
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1268
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 852
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9867
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6379
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8326
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5577
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9402
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7174
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5570
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3946
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 1959
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3401
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4680
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1002
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 5528
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 2845
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3556
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6115
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7736
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9797
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 1914
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2602
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9382
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 4104
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3172
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4841
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7821
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3928
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 2435
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 5191
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 2184
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5959
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6888
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3099
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 1132
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 9249
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 129
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 1610
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6467
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 2367
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3137
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3682
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 2094
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 2912
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 8977
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7906
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 251
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9366
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3105
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4499
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 4995
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 5277
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 6356
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3985
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 2949
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6327
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3023
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9731
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3291
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4006
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9659
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 3524
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9716
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7750
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7843
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9773
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8585
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 1355
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4634
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 4095
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3753
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5775
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 8624
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 3840
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 2110
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4840
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 659
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 5434
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 5098
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6724
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 66
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 494
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 8670
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 1035
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 6531
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 2356
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3641
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6171
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 4126
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 5405
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 5067
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4533
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 196
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5695
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3748
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8107
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 6923
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 3978
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 7625
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9033
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5235
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 2769
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4692
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 9492
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 5847
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 2844
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8321
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 2231
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 9320
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 4613
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3022
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 2256
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 7141
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 6180
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 2274
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 2227
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5643
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6496
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 8598
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5381
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5584
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 6328
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 5283
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 308
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6585
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 5361
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3691
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 5900
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7098
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 4714
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 2178
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 1921
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 2219
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3099
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 2558
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8765
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 4695
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 9730
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 406
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4737
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 4849
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 8227
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 9415
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9647
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6350
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5747
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6169
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 6387
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3100
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 9865
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1049
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7531
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 391
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 4798
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 7981
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3712
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7404
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2099
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9149
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4250
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8308
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 4527
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 1876
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 7248
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 2947
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1510
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 6152
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 4267
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 5514
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 7511
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 698
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3202
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4139
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 1489
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3531
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 4772
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 8121
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 8823
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 4474
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1812
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8302
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 2195
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 1419
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1078
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 1643
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8981
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4532
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 4894
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 1912
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 201
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 1406
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 8291
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 6462
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 197
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 3364
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 190
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 139
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8663
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 3301
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 8966
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 3087
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 8972
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4463
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 2810
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 4027
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8020
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6528
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6168
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4992
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 9998
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 6201
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 551
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1175
+    },
+    {
+        "relationship_manager_id": 1000,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9312
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 1843
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 5831
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 671
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 7392
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 9345
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 1472
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 7170
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 899
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 5863
+    },
+    {
+        "relationship_manager_id": 1014,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 5330
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 7958
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 3936
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9685
+    },
+    {
+        "relationship_manager_id": 1004,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 1530
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 7788
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 5847
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 6150
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 2880
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 9097
+    },
+    {
+        "relationship_manager_id": 1008,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5985
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 5,
+        "date": "2021-01-11",
+        "customer_count": 9372
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 1175
+    },
+    {
+        "relationship_manager_id": 1007,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1349
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 1596
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 2939
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 2549
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 4211
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 6746
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 3555
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 627
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 280
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 1108
+    },
+    {
+        "relationship_manager_id": 1001,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 8732
+    },
+    {
+        "relationship_manager_id": 1002,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 1789
+    },
+    {
+        "relationship_manager_id": 1003,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 2259
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 954
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 6131
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 9,
+        "date": "2021-01-11",
+        "customer_count": 5830
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 7765
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 7010
+    },
+    {
+        "relationship_manager_id": 1006,
+        "branch_id": 4,
+        "date": "2021-01-11",
+        "customer_count": 5505
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 8,
+        "date": "2021-01-11",
+        "customer_count": 3063
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 5537
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 3217
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 1,
+        "date": "2021-01-11",
+        "customer_count": 4694
+    },
+    {
+        "relationship_manager_id": 1005,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 9644
+    },
+    {
+        "relationship_manager_id": 1011,
+        "branch_id": 10,
+        "date": "2021-01-11",
+        "customer_count": 2247
+    },
+    {
+        "relationship_manager_id": 1010,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 3403
+    },
+    {
+        "relationship_manager_id": 1013,
+        "branch_id": 6,
+        "date": "2021-01-11",
+        "customer_count": 3360
+    },
+    {
+        "relationship_manager_id": 1009,
+        "branch_id": 2,
+        "date": "2021-01-11",
+        "customer_count": 8708
+    },
+    {
+        "relationship_manager_id": 1016,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 231
+    },
+    {
+        "relationship_manager_id": 1012,
+        "branch_id": 3,
+        "date": "2021-01-11",
+        "customer_count": 2808
+    },
+    {
+        "relationship_manager_id": 1015,
+        "branch_id": 7,
+        "date": "2021-01-11",
+        "customer_count": 5655
+    }
+]
